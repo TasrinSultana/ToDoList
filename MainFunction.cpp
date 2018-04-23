@@ -1,13 +1,13 @@
 #include<iostream>
 #include<cstdio>
 #include<cstring>
-#include "Todo_Class.cpp"
-#include "Show_function.cpp"
-#include "Add_function.cpp"
-#include "Remove_function.cpp"
-#include "All_file.cpp"
-#include "Menu_function.cpp"
-#include "InOut.cpp"
+#include "class.cpp"
+#include "Function_of_show.cpp"
+#include "function_of_add.cpp"
+#include "Function_of_delete.cpp"
+#include "all_file.cpp"
+#include "function_of_menu.cpp"
+#include "input_output.cpp"
 
 int main(){
 
